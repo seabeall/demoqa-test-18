@@ -4,7 +4,6 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$x;
-import static jdk.internal.org.jline.utils.InfoCmp.Capability.byName;
 
 public class CssXpathExamples {
 
